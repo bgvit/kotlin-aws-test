@@ -1,0 +1,7 @@
+aws:
+  access-key: ACCOUNT_ACCESS_KEY_FROM_AWS
+  secret-key: ACCOUNT_SECRET_KEY_FROM_AWS
+  region: S3_CONFIGURED_REGION_FROM_AWS
+  s3-bucket-name: S3_BUCKET_NAME
+  endpoint: S3_ENDPOINT
+  multipart-min-part-size: 5242880 # 5MB
